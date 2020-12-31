@@ -1,5 +1,5 @@
-### Hi there 👋
-# I m Rahul Shah working as a Student Associate @NJIT Info Desk Campus Center. I am a Computer Science student @New Jersey Institute of Technology-Newark.  Skilled in Python, Java, Openpyxl, HTML, CSS and Java.
+### Hi there,
+I m Rahul Shah working as a Student Associate @NJIT Info Desk Campus Center. I am a Computer Science student @New Jersey Institute of Technology-Newark.  Skilled in Python, Java, Openpyxl, HTML, CSS and Java.
 
 Here are some ideas to get you started:
 
