@@ -3,5 +3,5 @@ I am Rahul Shah, working as a Student Associate **@NJIT Info Desk Campus Center*
 
 - 🔭 I’m currently working on making my portfolio website using HTML5, CSS3, and Flexbox.
 - 🌱 I’m currently learning all about Object-Oriented Programming through Java.
-- 👯 I’m looking to collaborate on open source projects
+- 🤝 I’m looking to collaborate on open source projects
 
