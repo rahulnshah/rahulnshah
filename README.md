@@ -6,7 +6,7 @@ I am Rahul Shah, working as a Student Associate **@NJIT Info Desk Campus Center*
 - 💼 Looking for **software engineering internships/co-op positions.**
 - 🌟 Fun fact: I like to bowl and play video arcade games.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnshah&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnshah&theme=white)
 
 
 
