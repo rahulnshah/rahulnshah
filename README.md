@@ -11,6 +11,8 @@ I am Rahul Shah, working as a Student Associate **@NJIT Info Desk Campus Center*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnshah&theme=white)
 
+![Visitor Count](https://profile-counter.glitch.me/{rahulnshah}/count.svg)
+
 
 
 
