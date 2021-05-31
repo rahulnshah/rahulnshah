@@ -7,9 +7,9 @@ I am Rahul Shah, working as a Student Associate **@NJIT Info Desk Campus Center*
 - 🌟 Fun fact: I like to bowl and play video arcade games.
 
 ## 📊 My Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulnshah&show_icons=true&theme=prussian)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulnshah&show_icons=true&theme=gotham)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnshah&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnshah&theme=gotham)
 
 
 
