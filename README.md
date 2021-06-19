@@ -1,4 +1,4 @@
-# Hello there,
+# Hello there 👋
 I am Rahul Shah. I am a **Computer Science** student **@New Jersey Institute of Technology** in **Newark, NJ**.  Skilled in **Python, Java, Openpyxl, HTML, CSS and MATLAB.**
 
 - 🌱 I’m currently learning all about **Django, PHP, and JavaScript.**
