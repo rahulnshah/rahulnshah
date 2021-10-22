@@ -8,6 +8,8 @@ I am Rahul Shah. I am a **Computer Science** student at the **New Jersey Institu
 
 ## 📊 My Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulnshah&show_icons=true&hide=stars&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnshah&layout=compact)
+
  
 
 
