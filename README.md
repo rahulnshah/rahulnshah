@@ -7,8 +7,7 @@ I am Rahul Shah. I am a **Computer Science** student at the **New Jersey Institu
 - 🌟 Fun fact: I like to read nonfiction and historical fiction books.
 
 ## 📊 My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnshah&layout=compact)](https://github.com//github-readme-stats)
-
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnshah&theme=algolia)
  
 
 
